@@ -8,12 +8,16 @@ Fonctionnalités:
 Le projet est divisé en deux étapes :
 
 -Base de données :
+
 Conception d'un Modèle Conceptuel de Données (MCD).
 Elaboration d'une base de données avec un jeu de requêtes attestant du niveau L2.
 Répondre à des questions spécifiques concernant les manèges, les CM, les boutiques, etc.
+
 -Site Web :
+
 Interface web pour administrer la base de données sans modifier l'architecture.
 Fonctionnalités pour différents membres du personnel :
+
 Se connecter/déconnecter et modifier certaines informations personnelles.
 Le directeur peut gérer administrativement l'intégralité du parc : ajouter/supprimer/modifier des manèges, boutiques, personnels, etc.
 Les CM, responsables d'atelier ou de boutique ont des droits restreints pour gérer les entités qui leur sont attribuées.
